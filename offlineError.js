@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the app is offline or if there's a network connectivity issue.  This can be challenging to debug because it isn't always immediately apparent from the console logs.  The error messages can be vague, and you may only discover the problem when a user reports it.
